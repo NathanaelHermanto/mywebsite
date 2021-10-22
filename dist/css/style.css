@@ -109,6 +109,7 @@ header li {
 .container-2{
     display:flex;
     justify-content: space-between;
+    
 }
 
 .container-2 div{
@@ -122,6 +123,7 @@ header li {
 
 #projects h1{
     text-align: center;
+    padding-top:70px;
 }
 
 .project{
