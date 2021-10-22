@@ -386,9 +386,13 @@ iframe {
         display: block;
         color: #f2f2f2;
         text-align: center;
-        padding: 10px 12px;
+        padding: 4px 6px;
         text-decoration: none;
-        margin-top: 5px;
+       
+    }
+
+    header #branding h2 {
+        margin-bottom: 6px;
     }
     /*Footer*/
     aside#sidebar {
