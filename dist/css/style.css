@@ -382,6 +382,17 @@ iframe {
 }
 
 @media(max-width: 660px){
+    .navbar a {
+        float: left;
+        display: block;
+        color: #f2f2f2;
+        text-align: center;
+        padding: 10px 12px;
+        text-decoration: none;
+        margin-top: 5px;
+    }
+
+   
     /*Footer*/
     aside#sidebar {
         float: none;
@@ -411,3 +422,4 @@ iframe {
         text-align: center;
     }
 }
+
